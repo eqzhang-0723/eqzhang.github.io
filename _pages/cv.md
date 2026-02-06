@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Human Goegraphy, Nanjing University, 2026
+* Minor  in Economics, Peking University, 2023
+* B.S. in Rural Development Studies, China Agricultural University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* April 2025 - April 2026: UNICEF Zimbabwe Country Office
+  * Fellowship in Child Nutrition and Early Childhood Development
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* December 2024 - Jun 2025: Peking University
+  * Research Assistant
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Cong Peng
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative methods
+  * Participatory appraisal
+  * Interviews
+  * Surveys
+* Econometric modelling
+  * Casual analysis
+  * Spatial econometric analysis
+  * Network analysis
+
 
 Publications
 ======
@@ -47,18 +46,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
