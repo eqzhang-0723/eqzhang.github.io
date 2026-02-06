@@ -38,6 +38,7 @@ Skills
   * Casual analysis
   * Spatial econometric analysis
   * Network analysis
+* Programming: Python, Stata, Arcgis
 
 
 Publications
