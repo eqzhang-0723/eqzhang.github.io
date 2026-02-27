@@ -15,9 +15,3 @@ redirect_from:
   height="1000px"
   style="border: none;">
 </iframe>
-
-<p>
-  <a href="{{ base_path }}/files/cv.pdf" target="_blank">Open CV in a new tab</a>
-  &nbsp;|&nbsp;
-  <a href="{{ base_path }}/files/cv.pdf" download>Download CV</a>
-</p>
