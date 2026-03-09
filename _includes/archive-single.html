@@ -108,5 +108,9 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+    {% if post.collection == 'publications' and post.githuburl %}
+      <p><i class="fa fa-github" aria-hidden="true"></i> <a href="{{ post.githuburl }}">GitHub Repository</a></p>
+    {% endif %}
+
   </article>
 </div>
